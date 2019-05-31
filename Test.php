@@ -13,11 +13,4 @@ class Test
 {
 
     protected $test;
-
-    public function test(){
-
-        $a = 5;
-
-
-    }
 }
