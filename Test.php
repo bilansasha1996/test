@@ -13,4 +13,8 @@ class Test
 {
 
     protected $test;
+
+    public function test(){
+
+    }
 }
