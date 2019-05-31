@@ -16,6 +16,7 @@ class Test
 
     public function test(){
 
+        $a = 5;
 
 
     }
