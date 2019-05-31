@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3adbca-c85f-496d-bebd-01cc08a2a53c" name="Default" comment="LF commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Post.php" afterPath="$PROJECT_DIR$/Post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="9f755951-f72f-45dc-90e9-3d347b60d8be" name="Revert: first commit" comment="" />
     <list id="a8d91b92-0106-4583-b0ca-630e173c14bf" name="Revert: LF commit" comment="" />
