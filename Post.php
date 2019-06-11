@@ -14,6 +14,11 @@ class Post extends Model
     {
         $a = 1;
     }
+
+    public function test1()
+    {
+        $a = 1;
+    }
     
 }
 
